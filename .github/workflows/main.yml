@@ -29,8 +29,8 @@ jobs:
 
       - name: Docker Build and Push
         run: |
-          docker build -t <dockerhub-username>/frontend:latest .
-          docker build -t <dockerhub-username>/backend:latest .
+          docker build -t shahivivek29/frontend:latest .
+          docker build -t shahivivek29/backend:latest .
           echo "${{ secrets.DOCKER_HUB_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_HUB_USERNAME }}" --password-stdin
-          docker push <dockerhub-username>/frontend:latest
-          docker push <dockerhub-username>/backend:latest
+          docker push shahivivek29/frontend:latest
+          docker push shahivivek29/backend:latest
