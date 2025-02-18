@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  backend:
+    image: shahivivek29/backend:latest   # Using pre-built image from Docker Hub
+    ports:
+      - "4000:3000"
+    environment:
+      - NODE_ENV=production
+
+  frontend:
+    image: shahivivek29/frontend:latest  # Using pre-built image from Docker Hub
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
