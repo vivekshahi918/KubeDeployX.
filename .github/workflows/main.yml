@@ -37,10 +37,10 @@ jobs:
 
       - name: Docker Build and Push (Frontend)
         run: |
-          docker build -t shahivivek29/frontend:latest ./frontend
+          docker build -t shahivivek29/frontend:latest
           docker push shahivivek29/frontend:latest
 
       - name: Docker Build and Push (Backend)
         run: |
-          docker build -t shahivivek29/backend:latest ./backend
+          docker build -t shahivivek29/backend:latest 
           docker push shahivivek29/backend:latest
