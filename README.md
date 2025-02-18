@@ -1,10 +1,10 @@
-##Treva Trends 
+##KubeDeployX
 
-##Technology :-Next.js, Redux Toolkit, Stripe, MongoDB 
+##Technology :-Docker, Kubernetes, Terraform, Nginx, Prometheus and Grafana
 
 ##Description
-• Developed robust category and product CRUD operations with advanced inventory and image handling
-• Enhanced administrative efficiency with refined order statuses, refund processing, and user management tools.
-• Orchestrated Redux Toolkit for a responsive cart, complete with filtering and search capabilities.
-• Leveraged Stripe for secure transactions, paired with detailed profile and order tracking features.
-• Revitalized product pages with reviews, ratings, and enriched product information displays
+• Automated deployment with GitHub Actions, cutting deployment time by 40% and improving releases.
+• Dockerized Next.js and Node.js apps for 100% consistency across environments.
+• Deployed microservices to AWS EKS, ensuring high availability with auto-scaling and minimal downtime
+• Automated AWS provisioning with Terraform, streamlining setup and ensuring consistent infrastructure.
+• Integrated Prometheus and Grafana, improving issue detection and resolution efficiency
