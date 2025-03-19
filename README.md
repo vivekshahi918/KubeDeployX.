@@ -1,8 +1,8 @@
-# KubeDeployX - Fullstack E-Commerce Solution
+# KubeDeployX - Fullstack Website Solution
 
 ## 📝 Problem Statement
 
-KubeDeployX is a scalable and maintainable fullstack e-commerce solution. The project aims to address the common challenges faced by modern e-commerce platforms such as secure authentication, efficient order and product management, integrated payments, and a CI/CD-ready production pipeline with Kubernetes.
+KubeDeployX is a scalable and maintainable fullstack website solution. The project aims to address the common challenges faced by modern e-commerce platforms such as secure authentication, efficient order and product management, integrated payments, and a CI/CD-ready production pipeline with Kubernetes.
 
 ---
 
