@@ -86,7 +86,7 @@ Step 3: Access Service
 📬 Postman API Collection
 Base URL
 For local: http://localhost:3000/api
-For production: https://treva-trends-nextjs.vercel.app/api
+For production: https://treva-trends-nextjs.vercel.app
 
 ---
 
