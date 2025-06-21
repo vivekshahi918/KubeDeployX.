@@ -45,7 +45,6 @@ KubeDeployX/ │
 - **Payment:** Stripe API
 - **Infrastructure:** Docker, Kubernetes (Minikube), GitHub Actions (CI/CD)
 - **Monitoring:** Basic health checks (can integrate Prometheus/Grafana later)
-- **API Testing:** Postman Collection (included)
 
 ---
 
